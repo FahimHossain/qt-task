@@ -1,23 +1,23 @@
-## The challenge
+[Live](fahimhossain.github.io/qt-task)
 
-Your challenge is to build out this feature section and get it looking as close to the design as possible using Html, CSS & Javascript (if needed).
+<br>
+<br>
 
-You can use any tools you like to help you complete the challenge. 
+<h2>Desktop view</h2>
 
-Your users should:
+<p align="center" width="100%">
+    <img width="100%" src="https://raw.githubusercontent.com/FahimHossain/qt-task/gh-pages/desktop-design.jpg"> 
+</p>
 
-- View the optimal layout for the site depending on their device's screen size
+<br>
+<br>
 
-## Where to find everything
+<h2>Mobile view</h2>
 
-Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design. 
+<p align="center" width="100%">
+    <img width="50%" src="https://raw.githubusercontent.com/FahimHossain/qt-task/gh-pages/mobile-design.jpg"> 
+</p>
 
-The designs are in JPG static format. Using JPGs will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. 
 
-You will find all the required assets in the `/images` folder. The assets are already optimized.
 
-There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
 
-## Submitting your solution
-
-You can create a public repository in Github and share the link with us.
